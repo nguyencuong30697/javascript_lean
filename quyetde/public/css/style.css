@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    padding-top: 100px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.question-content {
+    text-align: center;
+}
+
+.total-vote{
+    text-align: center;
+}
+
+.vote-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btnContainer{
+    text-align: center;
+}

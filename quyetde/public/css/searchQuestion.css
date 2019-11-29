@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.search {
+    margin-top: 60px;
+}
+
+.search-result{
+    width: 80%;
+    height: 30px;
+}
